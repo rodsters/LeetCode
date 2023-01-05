@@ -1,2 +1,2 @@
 # LeetCode
-Posting Solutions to LeetCode that I have written.
+Posting solutions to LeetCode that I have written.
